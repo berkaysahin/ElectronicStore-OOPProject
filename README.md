@@ -1,5 +1,5 @@
 # 2019
-# Store - Object Oriented Programming Project
+# Electronic Store - Object Oriented Programming Project
 
   At assignment, to make an electronic product store application.
 
